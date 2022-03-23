@@ -1,4 +1,4 @@
-name: 'provision-dev-env'
+name: 'Destroy-dev-env'
 
 on: 
   workflow_dispatch:
